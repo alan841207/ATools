@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ATools.IO
+namespace ATools
 {
     /// <summary>
     /// 文件帮助类
@@ -419,3 +419,4 @@ namespace ATools.IO
 
     }
 }
+ 
